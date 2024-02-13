@@ -1,59 +1,38 @@
-<!-- ### Hi there 👋 -->
+# Hi, I'm Juliendy! 👋
 
-# Bem-vindo(a) ao meu GitHub! 👋
+💻Software Engineering Intern at [Startup Sesi Fiems](https://sistemafiems.sesims.com.br/startup)
 
-Olá! Eu sou Juliendy Mendes, uma entusiasta desenvolvedora front-end apaixonada por aprender e colaborar em projetos inovadores. Aqui está um pouco sobre mim e meu trabalho:
+🎓Software Engineering Student at [UFMS](https://ufms.br)
 
-## Sobre Mim
+## About me
 
-Sou uma pessoa que valoriza muito a aprendizagem colaborativa e também acredito que o conhecimento compartilhado é a chave para o crescimento pessoal e também profissional. Me considero aberta a novas ideias e perspectivas, e gosto de me envolver em projetos que me desafiem.
+I'm a person who highly values ​​collaborative learning and I believe that shared knowledge is the key to personal and professional growth. I consider myself open to new ideas and perspectives and I like to get involved in projects that challenge me.
 
-## Minhas Habilidades
+## My skills
 
-Atualmente, minha principal área de atuação é o desenvolvimento front-end, e estou sempre explorando maneiras de melhorar minhas habilidades e conhecimentos. Algumas das tecnologias que trabalho são:
+Currently my main area of ​​activity is front-end development but I'm always exploring ways to improve my skills and knowledge and, therefore, I have been studying more about UX/UI Design and back-end development focused on Java with Spring Boot. 
+Some of the technologies I work on are:
 
-- <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> Vue
-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
-- <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> Angular
-- <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
-- <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"> Tailwind CSS
-- <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> Next.js
-- <img align="center" alt="Nuxt.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"> Nuxt.js
-- <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> Typescript
-- <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git
-- <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> PostgreSQL
-- <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> Docker
-<!--
-## Projetos Destacados
+<a href="https://vuejs.org/"><img loading="lazy" align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
+<a href="https://reactjs.org/"><img loading="lazy" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 
+<a href="https://tailwindcss.com/"><img loading="lazy" align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></a>
+<a href="https://nextjs.org/"><img loading="lazy" align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
+<a href="https://nuxt.com/"><img loading="lazy" align="center" alt="Nuxt.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"></a>
+<a href="https://www.typescriptlang.org/"><img loading="lazy" align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
+<a href="https://git-scm.com/"><img loading="lazy" align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
 
-Ao longo da minha jornada, tive a oportunidade de contribuir para diversos projetos interessantes. Alguns dos destaques incluem:
+## Learning
+<a href="https://www.postgresql.org/"><img loading="lazy" align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
+<a href="https://www.docker.com/"><img loading="lazy" align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
+<a href="https://spring.io/"><img loading="lazy" align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
+<a href="https://www.oracle.com/br/java/"><img loading="lazy" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+<a href=""><img loading="lazy" align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</a>
 
-1. [Nome do Projeto 1](link_do_projeto_1): Breve descrição ou funcionalidades.
-2. [Nome do Projeto 2](link_do_projeto_2): Breve descrição ou funcionalidades.
+## How to contact me
 
-## Como Posso Contribuir
+- LinkedIn: [Juliendy Mendes](https://www.linkedin.com/in/juliendymendes/)
 
-Se você está interessado(a) em colaborar ou tiver sugestões para melhorar meus projetos, sinta-se à vontade para abrir issues, enviar pull requests ou entrar em contato diretamente. Estou sempre ansioso(a) para aprender com a comunidade e aprimorar minhas habilidades.
+Feel free to explore my repositories and thanks for visiting my GitHub! 🚀
 
-## Contato
 
-- LinkedIn: [Seu Perfil no LinkedIn](link_do_seu_linkedin)
-- E-mail: seu@email.com
-
-Fique à vontade para explorar meus repositórios e obrigado(a) por visitar meu GitHub! 🚀
--->
-
-<!--
-**juliendymendes/juliendymendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
