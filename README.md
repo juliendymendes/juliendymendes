@@ -1,7 +1,5 @@
 # Hi, I'm Juliendy! 👋
 
-💻Software Engineering Intern at [Startup Sesi Fiems](https://sistemafiems.sesims.com.br/startup)
-
 🎓Software Engineering Student at [UFMS](https://ufms.br)
 
 ## About me
