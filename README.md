@@ -1,6 +1,7 @@
 # Hi, I'm Juliendy! 👋
 
 🎓Software Engineering Student at [UFMS](https://ufms.br)
+
 💼Fullstack Developer at [Jera](https://jera.com.br/)
 
 ## Explore my portfolio!
