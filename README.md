@@ -1,6 +1,7 @@
 # Hi, I'm Juliendy! 👋
 
 🎓Software Engineering Student at [UFMS](https://ufms.br)
+💼Fullstack Developer at [Jera](https://jera.com.br/)
 
 ## Explore my portfolio!
 
@@ -12,7 +13,7 @@ I'm a person who highly values ​​collaborative learning and I believe that s
 
 ## My skills
 
-Currently my main area of ​​activity is front-end development but I'm always exploring ways to improve my skills and knowledge and, therefore, I have been studying more about UX/UI Design and back-end development focused on Java with Spring Boot. 
+Currently my main area of ​​activity is fullstack development but I'm always exploring ways to improve my skills and knowledge and, therefore, I have been studying more about tests with RSpec for Ruby on Rails apps. 
 Some of the technologies I work on are:
 
 <a href="https://vuejs.org/"><img loading="lazy" align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
@@ -26,10 +27,8 @@ Some of the technologies I work on are:
 ## Learning
 <a href="https://www.postgresql.org/"><img loading="lazy" align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
 <a href="https://www.docker.com/"><img loading="lazy" align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
-<a href="https://spring.io/"><img loading="lazy" align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
-<a href="https://www.oracle.com/br/java/"><img loading="lazy" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-<a href=""><img loading="lazy" align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</a>
+<a href="https://www.ruby-lang.org/"><img loading="lazy" align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" /></a>
+<a href="https://rubyonrails.org/"><img loading="lazy" align="center" alt="Ruby on Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" /></a>
 
 ## How to contact me
 
