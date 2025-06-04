@@ -1,8 +1,8 @@
 # Hi, I'm Juliendy! 👋
 
-🎓Software Engineering Student at [UFMS](https://ufms.br)
+🎓Bachelor's degree in Software Engineering from [UFMS](https://ufms.br)
 
-💼Fullstack Developer at [Jera](https://jera.com.br/)
+💼Fullstack Developer at [ClinicDesk]([https://jera.com.br/](https://clinicdesk.com.br/))
 
 ## Explore my portfolio!
 
